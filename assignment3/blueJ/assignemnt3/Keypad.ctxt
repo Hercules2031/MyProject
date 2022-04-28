@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Keypad
+comment1.params=
+comment1.target=Keypad()
+comment2.params=input
+comment2.target=boolean\ getInput(java.lang.String)
+comment3.params=
+comment3.target=double\ getDouble()
+numComments=4
